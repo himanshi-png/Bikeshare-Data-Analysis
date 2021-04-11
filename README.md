@@ -41,7 +41,4 @@ Statistics Computed You will learn about bike share use in Chicago, New York Cit
  - counts of each gender (only available for NYC and Chicago) 
  - earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
-The Files used is of the three city dataset files: 
- - chicago.csv 
- - new_york_city.csv 
- - washington.csv
+
