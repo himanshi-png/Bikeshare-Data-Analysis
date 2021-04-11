@@ -30,7 +30,7 @@ Statistics Computed You will learn about bike share use in Chicago, New York Cit
  - most common day of week 
  - most common hour of day
 
-2 Popular stations and trip 
+2. Popular stations and trip 
  - most common start station 
  - most common end station 
  - most common trip from start to end (i.e., most frequent combination of start station and end station)
