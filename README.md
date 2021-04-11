@@ -42,6 +42,6 @@ Statistics Computed You will learn about bike share use in Chicago, New York Cit
  - earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 The Files used is of the three city dataset files: 
-- chicago.csv 
-- new_york_city.csv 
-- - washington.csv
+ - chicago.csv 
+ - new_york_city.csv 
+ - washington.csv
