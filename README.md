@@ -1,5 +1,9 @@
 # Project title: Bikeshare Data Analysis
 
+
+#### The link for the Project:
+[Project Code](https://github.com/himanshi-png/Bikeshare-Data-Analysis/blob/master/bikehare.py)
+
 ## Description
 The project was a part of Udacity's IoT Software Foundation Nanodegree's Python Programming Chapter. 
 In this project, I used Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I will write code to import the data and answer interesting questions about it by computing descriptive statistics. I will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
@@ -41,5 +45,3 @@ Statistics Computed You will learn about bike share use in Chicago, New York Cit
  - counts of each gender (only available for NYC and Chicago) 
  - earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
-#### The link for the Project:
-[Project Code](https://github.com/himanshi-png/Bikeshare-Data-Analysis/blob/master/bikehare.py)
